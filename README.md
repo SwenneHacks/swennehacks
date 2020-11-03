@@ -4,8 +4,6 @@
 [![linkedin](https://img.shields.io/badge/-@swenne-313131?style=flat-square&labelColor=313131&logo=LinkedIn&logoColor=white&color=313131)](https://www.linkedin.com/in/swenne/)
 [![instagram](https://img.shields.io/badge/-@swenne-313131?style=flat-square&labelColor=313131&logo=instagram&logoColor=white&color=313131)](https://www.instagram.com/swenne/)
 
-### Hi there 👋
-
 <!--
 <img align="left" src="https://64.media.tumblr.com/db9bbe5cd14d36dc000bbc1928377fbf/tumblr_odbpuanvPu1v6psivo1_500.gif" width="280" height="280">
 
