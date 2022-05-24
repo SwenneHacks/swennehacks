@@ -20,7 +20,7 @@ int main(void)
   exit(0);
 }
 ```
-Socials:
+
 [![twitter](https://img.shields.io/badge/-@swenne-313131?style=flat-square&labelColor=313131&logo=Twitter&logoColor=white&color=313131)](https://www.twitter.com/swenne/)
 [![linkedin](https://img.shields.io/badge/-@swenne-313131?style=flat-square&labelColor=313131&logo=LinkedIn&logoColor=white&color=313131)](https://www.linkedin.com/in/swenne/)
 [![instagram](https://img.shields.io/badge/-@swenne-313131?style=flat-square&labelColor=313131&logo=instagram&logoColor=white&color=313131)](https://www.instagram.com/swenne/)
