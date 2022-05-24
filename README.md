@@ -17,7 +17,7 @@ int main(void)
       peer-to-peer(tools);
       experience++;
   }
-  return (0);
+  exit(0);
 }
 ```
 Socials:
