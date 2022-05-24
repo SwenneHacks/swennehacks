@@ -13,9 +13,8 @@ int main(void)
   
   while(learning(languages)) 
   {
-      learning(languages);
-      peer-to-peer(tools);
       evaluating(projects);
+      peer-to-peer(tools);
       experience++;
   }
   return (0);
