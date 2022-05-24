@@ -1,5 +1,27 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23539BF5&size=40&center=true&multiline=true&width=900&lines=Hello+World+!)](https://git.io/typing-svg)
 
+```
+#include <libraries.h>
 
+int main(void)
+{
+  char*   school = "Codam Coding College";
+  char*   currentProject = "Minishell + CPP";
+  char*   languages[] = {"C","C++","Swift","Python","HTML/CSS"};
+  char*   tools[] = {"MacOS","Windows","Vim/Emacs","Google Cloud","Visual Studio Code"};
+  int     experience = 100;
+  
+  while(learning(languages)) 
+  {
+      learning(languages);
+      peer-to-peer(tools);
+      evaluating(projects);
+      experience++;
+  }
+  return (0);
+}
+```
+Socials:
 [![twitter](https://img.shields.io/badge/-@swenne-313131?style=flat-square&labelColor=313131&logo=Twitter&logoColor=white&color=313131)](https://www.twitter.com/swenne/)
 [![linkedin](https://img.shields.io/badge/-@swenne-313131?style=flat-square&labelColor=313131&logo=LinkedIn&logoColor=white&color=313131)](https://www.linkedin.com/in/swenne/)
 [![instagram](https://img.shields.io/badge/-@swenne-313131?style=flat-square&labelColor=313131&logo=instagram&logoColor=white&color=313131)](https://www.instagram.com/swenne/)
