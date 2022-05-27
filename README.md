@@ -17,7 +17,7 @@ int main(void)
       peer-to-peer(tools);
       experience++;
   }
-  exit(0);
+  return(success);
 }
 ```
 
