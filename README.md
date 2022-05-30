@@ -10,6 +10,7 @@ int main(void)
   char*   languages[] = {"C","C++","Swift","Python","HTML/CSS"};
   char*   tools[] = {"MacOS","Windows","Vim/Emacs","Google Cloud","Visual Studio Code"};
   int     experience = 100;
+  int     success;
   
   while(learning(languages)) 
   {
@@ -17,6 +18,7 @@ int main(void)
       peer-to-peer(tools);
       experience++;
   }
+  success = ten_thousand_hours(experience);
   return(success);
 }
 ```
