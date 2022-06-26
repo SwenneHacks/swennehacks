@@ -6,7 +6,7 @@
 int main(void)
 {
   char*   school = "Codam Coding College";
-  char*   currentProject = "Minishell + CPP";
+  char*   projects[] = {"Minishell","Cub3D","CPP"};
   char*   languages[] = {"C","C++","Swift","Python","HTML/CSS"};
   char*   tools[] = {"MacOS","Windows","Vim/Emacs","Google Cloud","Visual Studio Code"};
   int     experience = 100;
