@@ -8,7 +8,7 @@ About me in C Language:
 int main(void)
 {
   char*   school = "Codam Coding College";
-  char*   projects[] = {"Minishell","Webserv","C++Containers"};
+  char*   projects[] = {"Webserv","Minishell","C++Containers"};
   char*   languages[] = {"C","C++","Swift","Python","HTML/CSS"};
   char*   tools[] = {"MacOS","Windows","Vim/Emacs","Google Cloud","Visual Studio Code"};
   int     experience = 100;
