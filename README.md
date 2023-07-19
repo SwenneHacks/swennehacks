@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23539BF5&size=40&center=true&multiline=true&width=900&lines=Hello+World+!)](https://git.io/typing-svg)
  
-About me in C Language:    
+About me in C Language:     
   
 ```C
 #include <libraries.h>
