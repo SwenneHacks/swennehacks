@@ -11,7 +11,7 @@ int main(void)
   char*   projects[]  = {"Webserv","Minishell","C++Containers"};
   char*   languages[] = {"C","C++","Swift","Python","HTML/CSS"};
   char*   tools[]     = {"MacOS","Vim/Emacs","Google Cloud","Visual Studio Code"};
-  int     experience  = 100;
+  int     experience;
   int     success;
   
   while(learning(languages)) 
