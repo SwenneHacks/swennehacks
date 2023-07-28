@@ -17,7 +17,8 @@ int main(void)
   while(learning(languages)) 
   {
       evaluating(projects);
-      peer-to-peer(tools);
+      peer_to_peer(school);
+      new_skills(tools);
       experience++;
   }
   success = ten_thousand_hours(experience);
